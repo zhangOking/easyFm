@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20866d"],{a547:function(e,n,u){"use strict";u.r(n);var p,a,l=u("7ee2"),o=l["a"].creatApp(),s=o,t=u("2877"),c=Object(t["a"])(s,p,a,!1,null,null,null);c.options.__file="user.vue";n["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d20866d.618adabb.js.map

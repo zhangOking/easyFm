@@ -1,0 +1,41 @@
+/**
+ * base.css
+ */
+html, body,
+h1, h2, h3,
+div, p, form,
+ul, ol, li,
+table,th,td,
+label, pre,
+input, select, textarea {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, button, input, select, textarea {
+  font: normal 16px/1.5em 'Microsoft YaHei', '微软雅黑', arial, helvetica, sans-serif;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  background-color: #ebf1f6;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button, input {
+  outline: none;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}

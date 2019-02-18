@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2263aa"],{e889:function(e,n,t){"use strict";t.r(n);var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("\nusermoney\n    ")])},o=[],s={},r=s,a=t("2877"),c=Object(a["a"])(r,u,o,!1,null,"31fe4533",null);c.options.__file="usermoney.vue";n["default"]=c.exports}}]);
+//# sourceMappingURL=chunk-2d2263aa.391f6e74.js.map
