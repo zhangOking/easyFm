@@ -5,19 +5,27 @@
 # 目录结构
 
 easyFm/
+
 --| dist/
+
 --| node/
+
 --| node_modules/
+
 --| public/
+
 --| src/
+
 --| local.config.js/ 
+
 --| vue.config.js/ 
 
-# --| node/
+
+## --| node/
 
 node文件
 
-# --| src/
+## --| src/
 
 --| assets/ 静态资源文件
 
@@ -50,12 +58,16 @@ node文件
 例如:
 
 views/
+
 --| users/
+
 -----| _id.vue
+
 -----| index.vue
+
 --| users.vue
 
-# --| local.config.js/
+## --| local.config.js/
 
 配置代理信息，webpack将会读取文件中的信息配置devServer
 
@@ -71,7 +83,7 @@ module.exports = {
     port: 1024
 }
 
-# --| vue.config.js/
+## --| vue.config.js/
 
 基于vue-cli3, webpack的配置都将通过该文件进行修改
 
