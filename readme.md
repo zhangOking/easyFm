@@ -21,11 +21,11 @@ easyFm/
 --| vue.config.js/ 
 
 
-## --| node/
+## node/
 
 node文件
 
-## --| src/
+## src/
 
 --| assets/ 静态资源文件
 
@@ -67,13 +67,13 @@ views/
 
 --| users.vue
 
-## --| local.config.js/
+## local.config.js/
 
 配置代理信息，webpack将会读取文件中的信息配置devServer
 
 例如:
 
-let http = 'http://172.20.10.2:5656/';
+let http = 'http://xxx.xxx.xxx.xxx:5656/';
 
 module.exports = {
 
@@ -83,7 +83,7 @@ module.exports = {
     port: 1024
 }
 
-## --| vue.config.js/
+## vue.config.js/
 
 基于vue-cli3, webpack的配置都将通过该文件进行修改
 
